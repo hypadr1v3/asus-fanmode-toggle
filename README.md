@@ -4,7 +4,7 @@ A small shell program to toggle the fan modes for Asus laptops. It is meant to b
 This program is made for Linux and has been tested on an Asus ROG GU501GM laptop running Arch Linux. 
 
 
-##Installing
+## Installing
 
 Change the permissions for `togglefan.sh` to make it executable using:
 ```
